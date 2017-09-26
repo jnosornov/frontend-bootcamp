@@ -1,52 +1,59 @@
 # FRONT END BOOTCAMP
 ---
 
-## Tuesday
+## TUESDAY
 
-**1. Tools needed**
+**1. tools needed**
 
-    a. use a control version software
-    b. SSH key configuration
-    c. use a text editor
-    d. install node.js
+    a. control version software
+    b. SSH key
+    c. text editor
+    d. node.js
 
-**2. Getting started with Webtask.io**
+*Version control is* a system that records changes to a file or set of files over time so that you can recall specific versions later. Want to know more checkout the [git book](https://git-scm.com/book/en/v2).   
 
-    a. getting use to Webtask
+*node is*
 
-**3. Exercise #1**
+**2. Webtask.io**
+
+*Webtask is*
+
+**3. exercise #1**
 
 *def:* create a mini service in webtask
 
 ---
 
-## Wednesday
+## WEDNESDAY
 
-**1. Markdown syntaxis**  
-**2. Configure local & remote repository**  
-**3. Exercise #2**
+**1. markdown syntaxis**
+
+*Markdown is*
+
+**2. configure local & remote repository**  
+**3. exercise #2**
 
 *def:* create a bootcamp notes and curriculum vitae markdown document
 
 ---
 
-## Thursday
+## THURSDAY
 
-**1. Basic HTML**
+**1. basic HTML**
 
     a. webpage structure
     b. metadata configuration
     c. webpage content
 
-**2. Exercise #3**
+**2. exercise #3**
 
 *def:* create a curriculum vitae html document
 
 ---
 
-## Friday
+## FRIDAY
 
-**1. Basic CSS**
+**1. basic CSS**
 
     a. styles
     b. linking
@@ -54,15 +61,15 @@
     d. speudo-elements
     e. specficity
 
-**2. Exercise #4**
+**2. exercise #4**
 
 *def:* add basic styles to html document (use HTML5 boilerplate)
 
 ---
 
-## Saturday
+## SATURDAY
 
-**1. CSS selectors game**  
-**2. CSS layout documentation**
+**1. css selectors game**  
+**2. css layout documentation**
 
 

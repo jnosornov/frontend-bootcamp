@@ -19,6 +19,8 @@
     a. definition
     b. theory (variables, operators, functions, objects)
 
+---
+
 ## WEDNESDAY
 
 **1. javascript in depth**
@@ -42,6 +44,8 @@ function withdrawBalance(balance, amount) {...};
 function withdrawAllBalance(balance) {...};
 ```
 
+---
+
 ## THURSDAY
 
 **1. javascripting**
@@ -54,9 +58,15 @@ function withdrawAllBalance(balance) {...};
 
 *def:* rewrite your html cv code with semantic html code
 
+---
+
 ## SATURDAY
 
 **1. forms**
+
+**2. exercise #8**
+
+*def:* create a contact form in our HTML curriculum vitae.
 
 **2. media queries**
 

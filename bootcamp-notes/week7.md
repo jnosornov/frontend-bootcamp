@@ -53,3 +53,4 @@
 **4. exercise #16**
 
 *def:* consume products endpoint and render the products
+

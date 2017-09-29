@@ -1,4 +1,16 @@
-# Front End Bootcamp
+# WEEK 3
+---
+
+## TOPICS
+
+*1. json*  
+*2. dom*  
+*3. flexbox*  
+*4. advanced positioning*  
+*5. responsive design*  
+*6. yeoman*  
+*7. bootstrap*
+
 ---
 
 ## MONDAY
@@ -14,7 +26,34 @@ if the human has friends or not, and a list of friends.
 
 *notes:* at least five humans, at least one human should have a friend.
 
-**4. DOM**
+**4. DOCUMENT OBJECT MODEL**
+
+*The (Document Object Model) DOM model* is a programming interface for HTML and XML documents. It represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them you can change the document's structure, style or content. Nodes can have event handlers attached to them. Once an event is triggered, the event handlers get executed.
+
+The HTML DOM is compound by: 
+
+    - HTML as objects
+    - the properties of all HTML elements
+    - the methods to access all HTML elements
+    - the events for all HTML elements
+
+*As Jeremy Keith said:*
+
+> The DOM represents the web page that’s currently loaded in the browser window. The browser provides a map (or model) of the page. You can use JavaScript to read this map.
+
+*About nodes*
+
+Every element within the HTML tree of the DOM is a node. Higher-up branch nodes are ‘parents’, adjacent branch nodes are ‘siblings’, and lower-down nodes are ‘children’ of their ‘parent’ nodes. All nodes in the tree can be access by programs and scripts. Nodes can be created, modified or deleted.
+
+[Video about DOM nodes](https://www.youtube.com/watch?v=BWVoPxob5DU)
+
+#### HTML DOM TREE REPRESENTATION
+![DOM tree representation](./images/html-dom-tree.jpg)
+
+#### HTML DOM DOCUMENTATION
+
+[MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) |
+[W3SCHOOLS](https://www.w3schools.com/js/js_htmldom.asp)
 
 **5. exercise #10**
 

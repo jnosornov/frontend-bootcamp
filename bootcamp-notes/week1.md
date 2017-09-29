@@ -12,11 +12,11 @@
 
 *Version control is* a system that records changes to a file or set of files over time so that you can recall specific versions later. Want to know more checkout the [git book](https://git-scm.com/book/en/v2).   
 
-*node is*
+*node is* a javascript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
 
 **2. Webtask.io**
 
-*Webtask is*
+*Webtask is* Function-as-a-Service platform for building serverless apps. Learn how to build applications without worrying about servers, and common use-cases where serverless shines.
 
 **3. exercise #1**
 

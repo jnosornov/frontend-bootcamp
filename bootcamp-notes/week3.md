@@ -21,18 +21,21 @@
 
 *JSON (Javascript Object Notation)* is a text-based data format following javascript object syntax. JSON exist as an string and is use to transfer data across the network (between the server and the client), the data can be access for a particular use before it is converted to native javascript. 
 
-JSON METHODS
+#### JSON methods
 
-*JSON.parse()* this method allows you to convert the data receive from the server represented as string into a javascript object.
+*JSON.parse()* this method allows you to convert the data receive from the server represented as string into a        javascript object.
 
-*JSON.stringify()* this method allows you to convert the data send to the server represented as javascript object into string.
+*JSON.stringify()* this method allows you to convert the data send to the server represented as javascript object     into string.
+
+**To test JSON structure:** *[JSON Validator](https://jsonformatter.org/)*
 
 **3. EXERCISE 9**
 
 *def:* create a json structure with a list of humans, where a human has a name, age, a list of pets,
 if the human has friends or not, and a list of friends.
-
 *notes:* at least five humans, at least one human should have a friend.
+
+[view exercise solution](../bootcamp-exercises/exercise9.json)
 
 **4. DOCUMENT OBJECT MODEL**
 
@@ -63,9 +66,9 @@ Every element within the HTML tree of the DOM is a node. Higher-up branch nodes 
 [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) |
 [W3SCHOOLS](https://www.w3schools.com/js/js_htmldom.asp)
 
-**5. exercise #10**
+**5. EXERCISE 10**
 
-*def:* use he onSubmit event to get the values of the contact form
+*def:* use the onSubmit event to get the values of the contact form
 
 ---
 ## TUESDAY

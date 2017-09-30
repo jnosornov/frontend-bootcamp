@@ -17,9 +17,17 @@
 
 **1. git conflict issues & commands**
 
-**2. JSON**
+**2. JAVASCRIPT OBJECT NOTATION**
 
-**3. exercise #9**
+*JSON (Javascript Object Notation)* is a text-based data format following javascript object syntax. JSON exist as an string and is use to transfer data across the network (between the server and the client), the data can be access for a particular use before it is converted to native javascript. 
+
+JSON METHODS
+
+*JSON.parse()* this method allows you to convert the data receive from the server represented as string into a javascript object.
+
+*JSON.stringify()* this method allows you to convert the data send to the server represented as javascript object into string.
+
+**3. EXERCISE 9**
 
 *def:* create a json structure with a list of humans, where a human has a name, age, a list of pets,
 if the human has friends or not, and a list of friends.
@@ -28,7 +36,7 @@ if the human has friends or not, and a list of friends.
 
 **4. DOCUMENT OBJECT MODEL**
 
-*The (Document Object Model) DOM model* is a programming interface for HTML and XML documents. It represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them you can change the document's structure, style or content. Nodes can have event handlers attached to them. Once an event is triggered, the event handlers get executed.
+*The (Document Object Model) DOM* is a programming interface for HTML and XML documents. It represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them you can change the document's structure, style or content. Nodes can have event handlers attached to them. Once an event is triggered, the event handlers get executed.
 
 The HTML DOM is compound by: 
 

@@ -73,17 +73,27 @@ Every element within the HTML tree of the DOM is a node. Higher-up branch nodes 
 ---
 ## TUESDAY
 
-**1. training DOM, git**
-**2. cdn**
+**1. training DOM, git**  
+**2. CONTENT DELIVERY NETWORK**
+
+*A content delivery network (CDN)* is a system of distributed servers (network) that deliver pages and other Web content to a user, based on the geographic locations of the user, the origin of the webpage and the content delivery server.
+This service is effective in speeding the delivery of content of websites with high traffic and websites that have global reach. The closer the CDN server is to the user geographically, the faster the content will be delivered to the user. CDNs also provide protection from large surges in traffic.
+
+*How CDN works:* servers nearest to the website visitor respond to the request. The content delivery network copies the pages of a website to a network of servers that are dispersed at geographically different locations, caching the contents of the page. When a user requests a webpage that is part of a content delivery network, the CDN will redirect the request from the originating site's server to a server in the CDN that is closest to the user and deliver the cached content. CDNs will also communicate with the originating server to deliver any content that has not been previously cached.
+The process of bouncing through CDNs is nearly transparent to the user. The only way a user would know if a CDN has been accessed is if the delivered URL is different than the URL that has been requested.
+
+[Taken from](http://www.webopedia.com/TERM/C/CDN.html)
 
 ---
 ## WEDNESDAY
 
-**1. gitHub flow**
+**1. GITHUB FLOW MODEL**
 
-**2. flexbox**
+**2. FLEXBOX**
 
-**3. exercise #11**
+
+
+**3. EXERCISE 11**
 
 *def:* build a carousel grid and carousel modal using flexbox
 

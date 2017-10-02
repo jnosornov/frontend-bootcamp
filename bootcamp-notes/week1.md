@@ -28,12 +28,16 @@
 
 **1. markdown syntaxis**
 
-*Markdown is*
+*Markdown is* a lightweight markup language with plain text formatting syntax. It is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. 
 
-**2. configure local & remote repository**  
-**3. exercise #2**
+**2. CONFIGURE LOCAL & REMOTE REPOSITORY**
+
+**3. EXERCISE 2**
 
 *def:* create a bootcamp notes and curriculum vitae markdown document
+
+[view exercise solution](../bootcamp-notes)
+
 
 ---
 

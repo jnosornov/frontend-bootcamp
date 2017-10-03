@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+        "name": "David",
+        "age": 24,
+        "pets": ["cocodrile", "snake"],
+        "hasFriends": "yes",
+        "friendsName": ["Lorein", "Zack", "Emily"]
+        },
+        {
+            "name": "Josua",
+            "age": 15,
+            "pets": ["chameleon", "shark"],
+            "hasFriends": "yes",
+            "friendsName": ["Klay", "Sasha", "Dave"]
+        },
+        {
+            "name": "Clara",
+            "age": 30,
+            "pets": [],
+            "hasFriends": "no",
+            "friendsName": []
+        },
+        {
+            "name": "Peter",
+            "age": 17,
+            "pets": ["cat", "kangaroo"],
+            "hasFriends": "yes",
+            "friendsName": ["Sara", "Camila", "Frank", "Santiago"]
+        },
+        {
+            "name": "Sheldon",
+            "age": 35,
+            "pets": [],
+            "hasFriends": "yes",
+            "friendsName": ["Penny"]
+        }
+    ]
+}

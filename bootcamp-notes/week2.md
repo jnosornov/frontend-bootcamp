@@ -3,18 +3,18 @@
 
 ## TUESDAY
 
-**1. basic CSS**
+**1. BASIC CSS**
 
     a. floats
     b. overlfow
     c. full bleeded layout
     d. inline-block
 
-**2. exercise #5**
+**2. EXERCISE #5**
 
 *def:* build a html full layout using inline-block instead of floats
 
-**3. basic javascript**
+**3. BASIC JAVASCRIPT**
 
     a. definition
     b. theory (variables, operators, functions, objects)
@@ -23,14 +23,14 @@
 
 ## WEDNESDAY
 
-**1. javascript in depth**
+**1. JAVASCRIPT IN DEPTH**
 
     a. theory (closures, this scope, inmediately invoked fuction expression, callbacks)
     b. reference book
 
 [Kyle Simpson's book series You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 
-**2. exercise #6**
+**2. EXERCISE #6**
 
 *def:* implement the fuctions given
 

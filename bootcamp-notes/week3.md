@@ -35,7 +35,7 @@
 if the human has friends or not, and a list of friends.
 *notes:* at least five humans, at least one human should have a friend.
 
-[view exercise solution](../bootcamp-exercises/exercise9.json)
+[view exercise solution](../bootcamp-exercises/exercise9/exercise9.json)
 
 **4. DOCUMENT OBJECT MODEL**
 

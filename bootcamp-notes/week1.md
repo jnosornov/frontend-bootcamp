@@ -1,5 +1,15 @@
-# FRONT END BOOTCAMP
+# WEEK 1
 ---
+
+## TOPICS
+
+*1. version control*
+*2. webtask*
+*3. markdown*
+*4. repository config*
+*5. HTML*
+*6. CSS*
+ 
 
 ## TUESDAY
 
@@ -12,7 +22,7 @@
 
 *Version control is* a system that records changes to a file or set of files over time so that you can recall specific versions later. Want to know more checkout the [git book](https://git-scm.com/book/en/v2).   
 
-*node is* a javascript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
+*Node is* a javascript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
 
 **2. Webtask.io**
 
@@ -32,6 +42,15 @@
 
 **2. CONFIGURE LOCAL & REMOTE REPOSITORY**
 
+    - to initialize a local repository use the command `git init` inside the folder desire.
+    - to set up a remote repository:
+        - configure a ssh key
+        - create an account on a version control plataform: github, bitbucket ...
+        - add the ssh key
+        - create a repository
+        - add a remote using the command inside local repository `git remote add remote_name remote_url`
+    - if more than one account is needed use the config file to set up multiple hosts
+
 **3. EXERCISE 2**
 
 *def:* create a bootcamp notes and curriculum vitae markdown document
@@ -43,13 +62,13 @@
 
 ## THURSDAY
 
-**1. basic HTML**
+**1. BASIC HTML**
 
     a. webpage structure
     b. metadata configuration
     c. webpage content
 
-**2. exercise #3**
+**2. EXERCISE #3**
 
 *def:* create a curriculum vitae html document
 
@@ -57,7 +76,7 @@
 
 ## FRIDAY
 
-**1. basic CSS**
+**1. BASIC CSS**
 
     a. styles
     b. linking
@@ -65,7 +84,7 @@
     d. speudo-elements
     e. specficity
 
-**2. exercise #4**
+**2. EXERCISE 4**
 
 *def:* add basic styles to html document (use HTML5 boilerplate)
 
@@ -73,7 +92,9 @@
 
 ## SATURDAY
 
-**1. css selectors game**  
-**2. css layout documentation**
+**1. CSS SELECTORS GAME**   
+
+
+**2. CSS LAYOUT DOCUMENTATION**
 
 

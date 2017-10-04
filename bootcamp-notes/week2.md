@@ -52,9 +52,16 @@ function withdrawAllBalance(balance) {...};
 
 ## FRIDAY
 
-**1. semantic HTML**
+**1. SEMANTIC HTML**
 
-**2. exercise #7**
+Semantic HTML or semantic markup is HTML that introduces meaning to the web page rather than just presentation. By adding semantic tags to your document, you provide additional information about that document, which aids in communication. Specifically, semantic tags make it clear to the browser what the meaning of a page and its content is.
+
+Too see more on HTML5 semantic tags go to latest documentation on the website.
+Follow HTML5 doctor, MDN], and W3SCHOOL post.
+
+[Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
+
+**2. EXERCISE 7**
 
 *def:* rewrite your html cv code with semantic html code
 

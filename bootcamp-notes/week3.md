@@ -92,7 +92,6 @@ The process of bouncing through CDNs is nearly transparent to the user. The only
 **2. FLEXBOX**
 
 
-
 **3. EXERCISE 11**
 
 *def:* build a carousel grid and carousel modal using flexbox
@@ -109,7 +108,11 @@ The process of bouncing through CDNs is nearly transparent to the user. The only
 
 **1. advanced positioning**
 
-**2. responsive design**
+**2. RESPONSIVE DESIGN**
+
+*Responsive Web design* is the approach that suggests that design and development should respond to the user’s behavior and environment based on screen size, platform and orientation.The practice consists of a mix of flexible grids and layouts, images and an intelligent use of CSS media queries. As the user switches from their laptop to iPad, the website should automatically switch to accommodate for resolution, image size and scripting abilities. In other words, the website should have the technology to automatically respond to the user’s preferences. This would eliminate the need for a different design and development phase for each new gadget on the market. [Taken from](https://www.smashingmagazine.com)
+
+[responsive design class exercise](../bootcamp-exercises/responsive-design/)
 
     a. css media queries
     b. disabling viewport zooming

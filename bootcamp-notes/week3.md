@@ -3,33 +3,31 @@
 
 ## TOPICS
 
-*1. json*  
-*2. dom*  
-*3. flexbox*  
-*4. advanced positioning*  
-*5. responsive design*  
-*6. yeoman*  
-*7. bootstrap*
+*1. JSON*  
+*2. DOM*  
+*3. Flexbox*  
+*4. Advanced positioning*  
+*5. Responsive design*  
+*6. Yeoman*  
+*7. Bootstrap*
 
 ---
 
 ## MONDAY
 
-**1. git conflict issues & commands**
-
-**2. JAVASCRIPT OBJECT NOTATION**
+***1. JAVASCRIPT OBJECT NOTATION***
 
 *JSON (Javascript Object Notation)* is a text-based data format following javascript object syntax. JSON exist as an string and is use to transfer data across the network (between the server and the client), the data can be access for a particular use before it is converted to native javascript. 
 
-#### JSON methods
+***JSON METHODS***
 
-*JSON.parse()* this method allows you to convert the data receive from the server represented as string into a        javascript object.
+*JSON.parse():* this method allows you to convert the data receive from the server represented as string into a javascript object.
 
-*JSON.stringify()* this method allows you to convert the data send to the server represented as javascript object     into string.
+*JSON.stringify():* this method allows you to convert the data send to the server represented as javascript object into string.
 
 **To test JSON structure:** *[JSON Validator](https://jsonformatter.org/)*
 
-**3. EXERCISE 9**
+***2. EXERCISE 9***
 
 *def:* create a json structure with a list of humans, where a human has a name, age, a list of pets,
 if the human has friends or not, and a list of friends.
@@ -37,7 +35,7 @@ if the human has friends or not, and a list of friends.
 
 [view exercise solution](../bootcamp-exercises/exercise9/exercise9.json)
 
-**4. DOCUMENT OBJECT MODEL**
+***3. DOCUMENT OBJECT MODEL***
 
 *The (Document Object Model) DOM* is a programming interface for HTML and XML documents. It represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them you can change the document's structure, style or content. Nodes can have event handlers attached to them. Once an event is triggered, the event handlers get executed.
 
@@ -66,15 +64,14 @@ Every element within the HTML tree of the DOM is a node. Higher-up branch nodes 
 [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) |
 [W3SCHOOLS](https://www.w3schools.com/js/js_htmldom.asp)
 
-**5. EXERCISE 10**
+***4. EXERCISE 10***
 
 *def:* use the onSubmit event to get the values of the contact form
 
 ---
 ## TUESDAY
-
-**1. training DOM, git**  
-**2. CONTENT DELIVERY NETWORK**
+ 
+***1. CONTENT DELIVERY NETWORK***
 
 *A content delivery network (CDN)* is a system of distributed servers (network) that deliver pages and other Web content to a user, based on the geographic locations of the user, the origin of the webpage and the content delivery server.
 This service is effective in speeding the delivery of content of websites with high traffic and websites that have global reach. The closer the CDN server is to the user geographically, the faster the content will be delivered to the user. CDNs also provide protection from large surges in traffic.
@@ -87,28 +84,29 @@ The process of bouncing through CDNs is nearly transparent to the user. The only
 ---
 ## WEDNESDAY
 
-**1. GITHUB FLOW MODEL**
+***1. GITHUB FLOW MODEL***
 
-**2. FLEXBOX**
+***2. FLEXBOX***
 
-
-**3. EXERCISE 11**
+***3. EXERCISE 11***
 
 *def:* build a carousel grid and carousel modal using flexbox
+
+[To see exercise solution go here](../bootcamp-exercises/exercise11/)
 
 ---
 ## THURSDAY
 
-**1. layout techniques review**
+***1. LAYOUT TECHNIQUES***
 
-**2. pages for color selection**
+***2. COLOR SELECTION RESOURCES***
 
 ---
 ## FRIDAY
 
-**1. advanced positioning**
+***1. ADVANCED POSITIONING***
 
-**2. RESPONSIVE DESIGN**
+***2. RESPONSIVE DESIGN***
 
 *Responsive Web design* is the approach that suggests that design and development should respond to the user’s behavior and environment based on screen size, platform and orientation.The practice consists of a mix of flexible grids and layouts, images and an intelligent use of CSS media queries. As the user switches from their laptop to iPad, the website should automatically switch to accommodate for resolution, image size and scripting abilities. In other words, the website should have the technology to automatically respond to the user’s preferences. This would eliminate the need for a different design and development phase for each new gadget on the market. [Taken from](https://www.smashingmagazine.com)
 
@@ -120,16 +118,16 @@ The process of bouncing through CDNs is nearly transparent to the user. The only
     d. responsive image optimization
     e. retina screen
 
-**3. exercise #12**
+***3. EXERCISE 12***
 
 *def:* use responsive design in your curriculum vitae**
 
 ---
 ## SATURDAY
 
-**1. setting up a yeoman project**
+***1. SETTING UP YEOMAN PROJECT***
 
-**2. bootstrap**
+***2. BOOTSTRAP***
 
 
 

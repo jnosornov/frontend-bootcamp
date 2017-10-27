@@ -30,7 +30,6 @@ var carousel = (function() {
 
     var showCarousel = function() {
         currentSlideIndex = getElementIndexFromArrayLike(carouselGridItems, this);
-
         carouselModalElement.classList.remove('hidden');
         toggleBodyOverflowHidden();
         cloneCarouselItems();
@@ -109,3 +108,4 @@ var carousel = (function() {
 document.addEventListener('DOMContentLoaded', function() {
     carousel.init();
 });
+    

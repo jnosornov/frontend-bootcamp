@@ -1,20 +1,30 @@
-# FRONT END BOOTCAMP
+# WEEK 2
+---
+
+## TOPICS
+
+*1. CSS*  
+*2. Javascript*  
+*3. Javascripting tutotrial*  
+*4. Semantic HTML*
+*5. Forms*
+
 ---
 
 ## TUESDAY
 
-**1. BASIC CSS**
+***1. BASIC CSS***
 
     a. floats
-    b. overlfow
+    b. overflow
     c. full bleeded layout
     d. inline-block
 
-**2. EXERCISE #5**
+***2. EXERCISE 5***
 
 *def:* build a html full layout using inline-block instead of floats
 
-**3. BASIC JAVASCRIPT**
+***3. BASIC JAVASCRIPT***
 
     a. definition
     b. theory (variables, operators, functions, objects)
@@ -23,14 +33,14 @@
 
 ## WEDNESDAY
 
-**1. JAVASCRIPT IN DEPTH**
+***1. JAVASCRIPT IN DEPTH***
 
     a. theory (closures, this scope, inmediately invoked fuction expression, callbacks)
     b. reference book
 
 [Kyle Simpson's book series You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 
-**2. EXERCISE #6**
+***2. EXERCISE 6***
 
 *def:* implement the fuctions given
 
@@ -48,20 +58,22 @@ function withdrawAllBalance(balance) {...};
 
 ## THURSDAY
 
-**1. javascripting**
+***1. JAVASCRIPTING***
+
+[To know about this workshop go here](https://nodeschool.io/#workshoppers)
 
 ## FRIDAY
 
-**1. SEMANTIC HTML**
+***1. SEMANTIC HTML***
 
-Semantic HTML or semantic markup is HTML that introduces meaning to the web page rather than just presentation. By adding semantic tags to your document, you provide additional information about that document, which aids in communication. Specifically, semantic tags make it clear to the browser what the meaning of a page and its content is.
+Semantic HTML or semantic markup refers to the HTML that introduces meaning to the web page rather than just presentation. By adding semantic tags to your document, you provide additional information about that document, which aids in communication. Specifically, semantic tags make it clear to the browser what the meaning of a page and its content is.
 
 Too see more on HTML5 semantic tags go to latest documentation on the website.
-Follow HTML5 doctor, MDN], and W3SCHOOL post.
+Follow HTML5 doctor, MDN, and W3SCHOOL post.
 
 [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
 
-**2. EXERCISE 7**
+***2. EXERCISE 7***
 
 *def:* rewrite your html cv code with semantic html code
 
@@ -69,13 +81,12 @@ Follow HTML5 doctor, MDN], and W3SCHOOL post.
 
 ## SATURDAY
 
-**1. forms**
+***1. FORMS***
 
-**2. exercise #8**
+***2. EXERCISE 8***
 
 *def:* create a contact form in our HTML curriculum vitae.
 
-**2. media queries**
 
 
 

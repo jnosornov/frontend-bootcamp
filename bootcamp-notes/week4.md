@@ -1,10 +1,17 @@
-# FRONT END BOOTCAMP
+## WEEK 4
 ---
+
+## TOPICS
+
+*1. jQuery*
+*2. SASS, BEM, SMACSS*
+*3. functional javascript*
+*4. ES2015*
+
 
 ## MONDAY
 
 **1. DOM questions**
-
 **2. continue carousel**
 
 ---

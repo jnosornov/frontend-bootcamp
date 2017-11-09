@@ -86,7 +86,11 @@ The process of bouncing through CDNs is nearly transparent to the user. The only
 
 ***1. GITHUB FLOW MODEL***
 
+[Git workflow Atlassian tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
 ***2. FLEXBOX***
+
+[CSS tricks tutorial](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ***3. EXERCISE 11***
 
@@ -95,16 +99,27 @@ The process of bouncing through CDNs is nearly transparent to the user. The only
 [To see exercise solution go here](../bootcamp-exercises/exercise11/)
 
 ---
+
 ## THURSDAY
 
 ***1. LAYOUT TECHNIQUES***
 
+- flexbox
+- grids
+- advanced positioning
+
 ***2. COLOR SELECTION RESOURCES***
+
+- [colllor](http://colllor.com/)
+- [material palette](https://www.materialpalette.com/)
+- [adobe wheel](https://color.adobe.com/create/color-wheel/)
 
 ---
 ## FRIDAY
 
 ***1. ADVANCED POSITIONING***
+
+[interneting is hard tutorial](https://internetingishard.com/html-and-css/advanced-positioning/)
 
 ***2. RESPONSIVE DESIGN***
 
@@ -127,7 +142,11 @@ The process of bouncing through CDNs is nearly transparent to the user. The only
 
 ***1. SETTING UP YEOMAN PROJECT***
 
+
+
 ***2. BOOTSTRAP***
+
+Bootstrap is an open source toolkit for developing with HTML, CSS, and JS.
 
 
 
